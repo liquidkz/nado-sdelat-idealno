@@ -1,0 +1,9 @@
+@font-face {
+    font-family: Raleway;
+    src: url(./fonts/Raleway-ExtraBold.woff), url(./fonts/Raleway-ExtraBold.woff2);
+  }
+  
+  @font-face {
+    font-family: Raleway;
+    src: url(./fonts/Raleway-Regular.woff), url(./fonts/Raleway-Regular.woff2);
+  }
